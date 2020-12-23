@@ -1,0 +1,35 @@
+{
+  "members": [
+    {
+      "avatar_url": "https://images.unsplash.com/photo-1544972917-3529b113a469?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "name": "Edmo Fernandes",
+      "email": "lucasfernandesf18@gmail.com",
+      "birth": -495244800000,
+      "gender": "M",
+      "sangue": "O+",
+      "weight": "55",
+      "height": "178",
+      "id": 2
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "avatar_url": "https://images.unsplash.com/photo-1546749876-2088f8b19e09?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+      "name": "Maria Eduarda da Costa Fernandes",
+      "birth": 1230940800000,
+      "gender": "F",
+      "services": "musculaçao",
+      "created_at": 1603981549446
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://images.unsplash.com/photo-1518611012118-696072aa579a?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=60",
+      "name": "Manuela da Costa Fernandes",
+      "birth": 1269993600000,
+      "gender": "F",
+      "services": "musculaçao",
+      "created_at": 1603981606653
+    }
+  ]
+}
